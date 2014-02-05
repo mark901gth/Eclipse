@@ -1,0 +1,11 @@
+To install the Maven Integration for Eclipse:
+
+	yum install maven
+
+Menu: Help / Install New Software / [Add]
+
+	Name:		M2E
+	Location:	http://download.eclipse.org/technology/m2e/releases
+
+Select:
+	Maven Integration for Eclipse

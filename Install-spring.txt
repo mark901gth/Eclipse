@@ -1,0 +1,13 @@
+To install the Spring Tool Set in eclipse:
+
+Menu: Help / Install New Software / [Add]
+
+	Name:		Spring Tool Suite
+	Location:	http://dist.springsource.com/release/TOOLS/update/e4.3/
+
+Select:
+	Spring IDE core
+ *	Spring IDE Maven Integration Developer Resources
+ *	Spring IDE Maven Support
+
+* not sure if this is really needed
