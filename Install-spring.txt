@@ -6,8 +6,9 @@ Menu: Help / Install New Software / [Add]
 	Location:	http://dist.springsource.com/release/TOOLS/update/e4.3/
 
 Select:
-	Spring IDE core
- *	Spring IDE Maven Integration Developer Resources
- *	Spring IDE Maven Support
+	Core / Spring IDE
+ *	Extensions / Spring IDE
+ *	Integrations / Spring IDE
+ *	Resources / Spring IDE
 
 * not sure if this is really needed
