@@ -7,8 +7,8 @@ Menu: Help / Install New Software / [Add]
 
 Select:
 	Core / Spring IDE
- *	Extensions / Spring IDE
+  	Extensions / Spring IDE
  *	Integrations / Spring IDE
- *	Resources / Spring IDE
+  	Resources / Spring IDE
 
 * not sure if this is really needed
