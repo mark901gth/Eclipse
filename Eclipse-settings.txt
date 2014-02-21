@@ -31,3 +31,8 @@ Team / Git / Label Decorations / Other
 	Swap the date and author fields, should to look like this:
 	({date}) [{author}] {short_message}
 
+XML / XML Files / Editor
+
+	check "Split multiple attributes each on a new line
+	Indent using spaces, Indentation size 4
+
