@@ -4,9 +4,11 @@ These settings are under the Window / Preferences menu
 
 General / Editors / Text Editors
 
+	set "Displayed Tab Width" to 4
 	check "Insert Spaces for Tabs"
 	check "Show Line Numbers"
-	set "Displayed Tab Width" to 4
+	check "Show Print Margin"
+	set "Print Margin Column" to 120
 
 General / Editors / Text Editors / QuickDiff
 
@@ -14,11 +16,12 @@ General / Editors / Text Editors / QuickDiff
 	check "Show differences in overview ruler"
 	set "Use this as reference source" to "Git Revision"
 	Update colors as desired:
-		Medium-Dark blue/cyan for Changes
-		Medium Green for Additions
+		Medium-Dark blue/cyan for Changes (HSV 210/100/100)
+		Medium Green for Additions (HSV 120/100/80)
 
 General / Appearance / Colors and Fonts
 
+	Basic / Text Font
 	Set to as desired.  Double check that bold version is the
 	same width as the normal version.
 
@@ -26,10 +29,24 @@ Java / Code Style / Formatter
 
 	Import "Formatter_java.xml"
 
+Java / Editor
+
+	Matching Brackets Highlight (HSV 0/100/85)
+
+Java / Editor / Syntax Coloring
+
+	Comments / Multi-line comment (HSV 120/100/60)
+	Comments / Single-line comment (HSV 120/100/60)
+
+
 Team / Git / Label Decorations / Other
 
 	Swap the date and author fields, should to look like this:
 	({date}) [{author}] {short_message}
+
+SpringSource / Dashboard
+
+	uncheck "Show Dashboard On Startup"
 
 XML / XML Files / Editor
 
