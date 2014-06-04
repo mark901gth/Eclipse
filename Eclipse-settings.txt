@@ -32,11 +32,18 @@ Java / Code Style / Formatter
 Java / Editor
 
 	Matching Brackets Highlight (HSV 0/100/85)
+	check Light Build for Quick Assists
+
+Java / Editor / Content Assist
+
+	Auto Activation Delay 50
 
 Java / Editor / Syntax Coloring
 
-	Comments / Multi-line comment (HSV 120/100/60)
-	Comments / Single-line comment (HSV 120/100/60)
+	Javadoc / HTML markup (HSV 0/100/70)
+	Javadoc / Others (HSV 120/100/60)
+	Comments / Multi-line comment (HSV 120/100/50)
+	Comments / Single-line comment (HSV 120/100/50)
 
 
 Team / Git / Label Decorations / Other
